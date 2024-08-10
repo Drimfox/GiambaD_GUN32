@@ -12,9 +12,9 @@ GameObject:
   - component: {fileID: 4454180883295428601}
   - component: {fileID: 7924910144931604714}
   - component: {fileID: 1996579780655307029}
-  - component: {fileID: 5543407319044002008}
   - component: {fileID: 5906221104086093004}
-  m_Layer: 0
+  - component: {fileID: 5543407319044002008}
+  m_Layer: 6
   m_Name: Projectile
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -113,21 +113,6 @@ Rigidbody:
   m_Interpolate: 1
   m_Constraints: 0
   m_CollisionDetection: 2
---- !u!114 &5543407319044002008
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7804669374938593867}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49ca9cb6b7f846ae81ae87e0dbed4643, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _explosionRadius: 2
-  _explosionForce: 25
-  _lifeTime: 7
 --- !u!135 &5906221104086093004
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -149,3 +134,18 @@ SphereCollider:
   serializedVersion: 3
   m_Radius: 0.047829106
   m_Center: {x: 0, y: 0.01, z: 0.23}
+--- !u!114 &5543407319044002008
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7804669374938593867}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49ca9cb6b7f846ae81ae87e0dbed4643, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _explosionRadius: 2
+  _explosionForce: 25
+  _lifeTime: 7

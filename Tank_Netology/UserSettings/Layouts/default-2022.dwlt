@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2560
     height: 1349
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Scene
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 61382
+  controlID: 104
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -144,7 +144,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 61325
+  controlID: 19
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -169,9 +169,8 @@ MonoBehaviour:
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
-  - {fileID: 12}
   m_Selected: 0
-  m_LastSelected: 1
+  m_LastSelected: 0
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -196,7 +195,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 61496
+  controlID: 55
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -250,8 +249,9 @@ MonoBehaviour:
   - {fileID: 16}
   - {fileID: 17}
   - {fileID: 18}
+  - {fileID: 12}
   m_Selected: 0
-  m_LastSelected: 1
+  m_LastSelected: 4
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -298,10 +298,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 73
-    width: 2132
-    height: 865
+    x: 280
+    y: 959
+    width: 1851
+    height: 392
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -345,7 +345,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 1
+    m_EnableMouseInput: 0
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -354,23 +354,23 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 21
-      width: 2132
-      height: 844
-    m_Scale: {x: 0.7814815, y: 0.7814815}
-    m_Translation: {x: 1066, y: 422}
+      width: 1851
+      height: 371
+    m_Scale: {x: 0.34351853, y: 0.34351853}
+    m_Translation: {x: 925.49994, y: 185.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -1364.0758
+      x: -2694.1777
       y: -540
-      width: 2728.1516
+      width: 5388.3555
       height: 1080
     m_MinimalGUI: 1
-  m_defaultScale: 0.7814815
-  m_LastWindowPixelSize: {x: 2132, y: 865}
+  m_defaultScale: 0.34351853
+  m_LastWindowPixelSize: {x: 1851, y: 392}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
@@ -745,9 +745,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.7024746, y: 1.8139074, z: 0.33722448}
+    m_Target: {x: -28.001719, y: 60.791626, z: 89.497375}
     speed: 2
-    m_Value: {x: -0.7024746, y: 1.8139074, z: 0.33722448}
+    m_Value: {x: -28.001719, y: 60.791626, z: 89.497375}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -775,9 +775,9 @@ MonoBehaviour:
       m_Size: {x: 0, y: 0}
     yGrid:
       m_Fade:
-        m_Target: 1
+        m_Target: 0
         speed: 2
-        m_Value: 1
+        m_Value: 0
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
       m_Size: {x: 0.5, y: 0.5}
@@ -789,17 +789,17 @@ MonoBehaviour:
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
       m_Size: {x: 0.5, y: 0.5}
-    m_ShowGrid: 1
+    m_ShowGrid: 0
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.19033994, y: -0.18442836, z: 0.036333818, w: -0.96361035}
+    m_Target: {x: -0.14012598, y: -0.85947967, z: 0.36385265, w: -0.33074552}
     speed: 2
-    m_Value: {x: -0.19032966, y: -0.18441841, z: 0.036331855, w: -0.9635583}
+    m_Value: {x: -0.14011744, y: -0.85942733, z: 0.36383048, w: -0.33072537}
   m_Size:
-    m_Target: 2.0436344
+    m_Target: 6.0068574
     speed: 2
-    m_Value: 2.0436344
+    m_Value: 6.0068574
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -861,9 +861,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: da620000d8620000
-      m_LastClickedID: 0
-      m_ExpandedIDs: 2e17f7ff164cf7ff2664f7ff3264f7ff4464f7ffc864f7ffca64f7ff3400f8ff5ec6f8ff0cf4f9ff10f4f9ff52a6faff8cb3fbff40b6fbff541efcff9038fcff02eefcff04eefcff8a03fdfffe7bfdff087cfdff488bfdfff6bafdff7cc7fdffaed5fdff26e9fdff3c7cffff3a7dffff26f4ffff2ef4ffff54f5ffffc8f5ffff40f7ffff10fbffff
+      m_SelectedIDs: 1ceeffff
+      m_LastClickedID: -4580
+      m_ExpandedIDs: 1ceeffff10fbfffff8600000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -932,7 +932,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/Prefabs/Blocks
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -940,16 +940,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/Prefabs/Blocks
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\drven\Documents\GitHub\GiambaD_GUN32\Tank_Netology
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ca620000
-    m_LastClickedID: 25290
-    m_ExpandedIDs: 000000004a6200004e620000526200007c6c00000a6d0000726e0000ca970000
+    m_SelectedIDs: 58660000
+    m_LastClickedID: 26200
+    m_ExpandedIDs: 00000000cc650000ce650000d0650000d2650000d4650000d6650000d865000042660000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -977,7 +977,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000004a6200004e620000526200007c6c00000a6d0000726e0000ca970000
+    m_ExpandedIDs: 00000000cc650000ce650000d0650000d2650000d4650000d6650000d8650000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1004,22 +1004,22 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000e26c000000000000ce6700005264000050640000566b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: TrampTower
+      m_OriginalName: TrampTower
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 26210
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 10}
     m_CreateAssetUtility:

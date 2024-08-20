@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1f3d7a623ad477d857fb2e28b21a585, type: 3}
+  m_Name: Indicator
+  m_EditorClassIdentifier: 
+  <Settings>k__BackingField:
+  - Mult: 1
+    Text: OMEGALOL!
+    Clip: {fileID: 0}
+  - Mult: 2
+    Text: NICE!
+    Clip: {fileID: 7400000, guid: 86829f4dfa73d1b458f74d0b5aa0455f, type: 2}
+  - Mult: 3
+    Text: GREAT!
+    Clip: {fileID: 7400000, guid: eb1a826dd0fa60241860a54b26ff4bc8, type: 2}
+  - Mult: 4
+    Text: AWSOME!
+    Clip: {fileID: 7400000, guid: aa5a92b61be9f5b44a5f6d1e59ba2fc4, type: 2}
+  - Mult: 5
+    Text: UNSTOPPABLE!
+    Clip: {fileID: 7400000, guid: 82b88c1efcfda384582b1103cd33f10f, type: 2}
+  - Mult: 6
+    Text: CARNAGE!!
+    Clip: {fileID: 7400000, guid: 641a7a052ca94e14a99b93e3db103f10, type: 2}

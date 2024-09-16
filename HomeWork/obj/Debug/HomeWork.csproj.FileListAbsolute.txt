@@ -1,0 +1,6 @@
+C:\Users\drven\RiderProjects\HomeWork\HomeWork\bin\Debug\HomeWork.exe
+C:\Users\drven\RiderProjects\HomeWork\HomeWork\bin\Debug\HomeWork.pdb
+C:\Users\drven\RiderProjects\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.AssemblyReference.cache
+C:\Users\drven\RiderProjects\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\drven\RiderProjects\HomeWork\HomeWork\obj\Debug\HomeWork.exe
+C:\Users\drven\RiderProjects\HomeWork\HomeWork\obj\Debug\HomeWork.pdb

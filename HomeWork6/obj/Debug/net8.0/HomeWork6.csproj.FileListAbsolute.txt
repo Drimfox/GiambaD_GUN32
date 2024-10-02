@@ -1,0 +1,14 @@
+C:\Users\drven\RiderProjects\HomeWork6\HomeWork6\bin\Debug\net8.0\HomeWork6.exe
+C:\Users\drven\RiderProjects\HomeWork6\HomeWork6\bin\Debug\net8.0\HomeWork6.deps.json
+C:\Users\drven\RiderProjects\HomeWork6\HomeWork6\bin\Debug\net8.0\HomeWork6.runtimeconfig.json
+C:\Users\drven\RiderProjects\HomeWork6\HomeWork6\bin\Debug\net8.0\HomeWork6.dll
+C:\Users\drven\RiderProjects\HomeWork6\HomeWork6\bin\Debug\net8.0\HomeWork6.pdb
+C:\Users\drven\RiderProjects\HomeWork6\HomeWork6\obj\Debug\net8.0\HomeWork6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drven\RiderProjects\HomeWork6\HomeWork6\obj\Debug\net8.0\HomeWork6.AssemblyInfoInputs.cache
+C:\Users\drven\RiderProjects\HomeWork6\HomeWork6\obj\Debug\net8.0\HomeWork6.AssemblyInfo.cs
+C:\Users\drven\RiderProjects\HomeWork6\HomeWork6\obj\Debug\net8.0\HomeWork6.csproj.CoreCompileInputs.cache
+C:\Users\drven\RiderProjects\HomeWork6\HomeWork6\obj\Debug\net8.0\HomeWork6.dll
+C:\Users\drven\RiderProjects\HomeWork6\HomeWork6\obj\Debug\net8.0\refint\HomeWork6.dll
+C:\Users\drven\RiderProjects\HomeWork6\HomeWork6\obj\Debug\net8.0\HomeWork6.pdb
+C:\Users\drven\RiderProjects\HomeWork6\HomeWork6\obj\Debug\net8.0\HomeWork6.genruntimeconfig.cache
+C:\Users\drven\RiderProjects\HomeWork6\HomeWork6\obj\Debug\net8.0\ref\HomeWork6.dll
